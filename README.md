@@ -1,1 +1,9 @@
-# k3_build_log
+# Annex K3 "Gasherbrum" Build Log
+Detailed step-by-step instructions for building an Annex Engineering K3 printer
+
+## Table of Contents
+1. Components and Parts List
+2. Tools
+3. Frame Assembly
+4. XY Motion System
+5. Z Motion System
